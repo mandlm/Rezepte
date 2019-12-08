@@ -1,4 +1,4 @@
-# Dinkelbrezen 812 Mehl Vegan
+# Dinkelbrezen 812 vegan
 
 ## Zutaten
 
