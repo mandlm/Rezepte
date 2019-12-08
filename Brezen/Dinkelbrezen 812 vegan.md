@@ -21,3 +21,7 @@
 * Brezen aus Kugeln formen, kalt absteifen lassen
 * Laugen und mit Salz bestreuen
 * 18 min bei 220°C backen
+
+## Ergebnis
+
+* 09.12.2019: Brezen etwas spröde. 
