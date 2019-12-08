@@ -20,4 +20,4 @@
 * 80g Stücke abstechen, Kugeln formen, kurz gehen lassen
 * Brezen aus Kugeln formen, kalt absteifen lassen
 * Laugen und mit Salz bestreuen
-* 20 min bei 220°C backen
+* 18 min bei 220°C backen
