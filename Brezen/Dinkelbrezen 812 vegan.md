@@ -25,3 +25,4 @@
 ## Ergebnis
 
 * 09.12.2019: Brezen etwas spröde. 
+* 10./11.12.2019: Teig etwas flüssig, Boden wird flach
