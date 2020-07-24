@@ -9,8 +9,9 @@ Zutaten
 * Öl (Sonnenblumen- oder Rapsöl)
 * Essig (Rotwein- oder Brantwein-Essig)
 * Salz
-* Pfeffer
+* schwarzer Pfeffer
 * Wasser
+* Schnittlauch zum Garnieren
 
 Verarbeitung
 ------------
@@ -26,3 +27,4 @@ Verarbeitung
 * mit Salz, Pfeffer, Essig und Öl abschmecken und gut verrühren
 * mit kaltem Wasser zu breiartiger Konsistenz anrühren
 * ziehen lassen
+* mit Pfeffer und Schnittlauch garnieren
